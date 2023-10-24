@@ -9,6 +9,8 @@ Qt version: Qt 6.5.2 MinGW 64-bit
 
 Compiler: MinGW 11.2.0 64-bit
 
+Build System: QMake
+
 ## **Feature**
 
 1. All of the components is in a **scroll area**. No need to be concerned if you shrink the main widget.
