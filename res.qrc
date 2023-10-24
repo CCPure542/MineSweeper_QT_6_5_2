@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/mine.png</file>
+        <file>res/fail.png</file>
+        <file>res/star.png</file>
+        <file>res/victory.png</file>
+        <file>res/explode.png</file>
+        <file>res/flag.png</file>
+        <file>res/box_normal.png</file>
+        <file>res/box_origin.png</file>
+        <file>res/black.png</file>
+        <file>res/box_0.png</file>
+        <file>res/box_1.png</file>
+        <file>res/box_2.png</file>
+        <file>res/box_3.png</file>
+        <file>res/box_4.png</file>
+        <file>res/box_5.png</file>
+        <file>res/box_6.png</file>
+        <file>res/box_7.png</file>
+        <file>res/box_8.png</file>
+    </qresource>
+</RCC>
